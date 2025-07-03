@@ -1,0 +1,1 @@
+ros2 launch teleop_twist_joy teleop-launch.py joy_config:='ps3' publish_stamped_twist:=true joy_vel:='/a200_0661/joy_teleop/cmd_vel' config_filepath:='/home/safir_field/ros2_ws/src/husky_manual_controller/config/ps3_a200.config.yaml'
